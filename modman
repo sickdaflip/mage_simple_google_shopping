@@ -1,0 +1,14 @@
+app/code/local/Wyomind/Licensemanager/                                  app/code/local/Wyomind/Licensemanager/
+app/code/local/Wyomind/Notificationmanager/                             app/code/local/Wyomind/Notificationmanager/
+app/code/local/Wyomind/Simplegoogleshopping/                            app/code/local/Wyomind/Simplegoogleshopping/
+app/design/adminhtml/default/default/layout/*                           app/design/adminhtml/default/default/layout/
+app/design/adminhtml/default/default/template/simplegoogleshopping/     app/design/adminhtml/default/default/template/simplegoogleshopping/
+app/etc/modules/*.xml                                                   app/etc/modules/
+app/locale/de_DE/Wyomind_Simplegoogleshopping.csv                       app/locale/de_DE/Wyomind_Simplegoogleshopping.csv
+app/locale/fr_FR/Wyomind_Simplegoogleshopping.csv                       app/locale/fr_FR/Wyomind_Simplegoogleshopping.csv
+app/locale/nl_NL/Wyomind_Simplegoogleshopping.csv                       app/locale/nl_NL/Wyomind_Simplegoogleshopping.csv
+lib/Wyomind/Google/*                                                    lib/Wyomind/Google/
+shell/wyomind_simplegoogleshopping.php                                  shell/wyomind_simplegoogleshopping.php
+skin/adminhtml/default/default/CodeMirror2/                             skin/adminhtml/default/default/CodeMirror2/
+skin/adminhtml/default/default/simplegoogleshopping/                    skin/adminhtml/default/default/simplegoogleshopping/
+var/tmp/sgs/                                                            var/tmp/sgs/
